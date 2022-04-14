@@ -1,4 +1,4 @@
-<p align="center"><img src="https://c.tenor.com/mGgWY8RkgYMAAAAC/hello-world.gif" width="100"/></p>
+<p align="center"><img src="https://c.tenor.com/mGgWY8RkgYMAAAAC/hello-world.gif"/></p>
 
 ### About Me :
 
