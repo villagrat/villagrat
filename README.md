@@ -26,5 +26,3 @@ I am a Full Stack Software Developer from Argentina.
 <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" title="Postman"  alt="Postman" width="40" height="40"/>&nbsp;
 
 </p>
-<br>
-<br>
