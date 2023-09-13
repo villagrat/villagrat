@@ -8,7 +8,7 @@ I am a Full Stack Software Developer from Argentina.
 - 🎵 Music Enthusiast
 - ⚡ In my free time I enjoy keeping up to date with new technologies by reading Medium blogs and watching webdev content on Youtube in channels like Fireship.
 
-<img src="https://i.ibb.co/5nhLMp0/wrapped-villagrat.png" title="Github Neat Wrapped" width="2682" height="1592" />&nbsp;
+<img src="https://i.ibb.co/5nhLMp0/wrapped-villagrat.png" title="Github Neat Wrapped" width="400" />&nbsp;
 
 ### 🛠 &nbsp;Languages and Tools :
 
