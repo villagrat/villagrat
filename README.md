@@ -8,14 +8,6 @@ I am a Full Stack Software Developer from Argentina.
 - 🎵 Music Enthusiast
 - ⚡ In my free time I enjoy keeping up to date with new technologies by reading Medium blogs and watching webdev content on Youtube in channels like Fireship.
 
-
-### Connect with me
-
-[<img align="left" alt="linked-in" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/tomas-villagra/)
-[<img align="left" alt="medium" src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" />](https://medium.com/@villagrat)
-<br>
-<br>
-
 ### 🛠 &nbsp;Languages and Tools :
 
 <p>
