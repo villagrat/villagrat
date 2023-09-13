@@ -4,7 +4,7 @@
 
 I am a Full Stack Software Developer from Argentina.
 
-- 👨‍💻 Working on multiple frontend and backend projects using React and Nodejs
+- 👨‍💻 Working on multiple frontend, backend & mobile projects using React, Vue, Typescript, NodeJS & React Native
 - 🎵 Music Enthusiast
 - ⚡ In my free time I enjoy keeping up to date with new technologies by reading Medium blogs and watching webdev content on Youtube in channels like Fireship.
 
