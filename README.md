@@ -2,10 +2,6 @@
 
 ### About Me :
 
-I am a Full Stack Software Developer from Argentina.
-
-- 👨‍💻 Working on multiple frontend, backend & mobile projects using React, Vue, Typescript, NodeJS & React Native
-- 🎵 Music Enthusiast
-- ⚡ In my free time I enjoy keeping up to date with new technologies by reading Medium blogs and watching webdev content on Youtube in channels like Fireship.
+When not concerned with the beeps and the boops you'll probably find me either doing music production, playing chess with friends or learning about whatever topic I'm currently interested in and adding it to my Obsidian notes vault
 
 ![](./profile-3d-contrib/profile-night-rainbow.svg)
